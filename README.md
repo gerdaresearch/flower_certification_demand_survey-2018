@@ -19,7 +19,7 @@ vase-life quality control,JAS(Japanese Agricultural Standards)
 Flower Certification Acceptability Consumer Survey.  
 Monday, July 30 - Tuesday, July 31, 2018.  
 Macromill Monitor, internet survey. 520 male and female respondents in their 20s to 50s.  
-The Council for the Longevity of Domestic Flowers.  Funded by the Ministry of Agriculture, Forestry and Fisheries, FY 2018 " Experimental project for the improvement of the flower vase-life", Domestic survey on the acceptability of JAS-certification for cut flowers.  
+The Council for the Vase-life Improvement of Japanese Flowers.  Funded by the Ministry of Agriculture, Forestry and Fisheries, FY 2018 " Experimental project for the improvement of the flower vase-life", Domestic survey on the acceptability of JAS-certification for cut flowers.  
 citation: (Aoki, Kyoko (2019). Vase-life quality management and the acceptability of certifications: Producer and consumer survey report.. Council for the Improvement of the Vase-life of Japanese Flowers.)    
 Questionnaire, GT, datasets, report   
 language  Japanese  
